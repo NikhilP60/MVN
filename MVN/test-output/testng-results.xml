@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[createCustemer]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-23T10:19:38 IST" name="Suite" finished-at="2024-10-23T10:19:38 IST" duration-ms="83">
+    <groups>
+    </groups>
+    <test started-at="2024-10-23T10:19:38 IST" name="Test" finished-at="2024-10-23T10:19:38 IST" duration-ms="83">
+      <class name="com.actitime.testscript.CreateCustemer">
+        <test-method signature="createCustemer()[pri:0, instance:com.actitime.testscript.CreateCustemer@793f29ff]" started-at="2024-10-23T10:19:38 IST" name="createCustemer" finished-at="2024-10-23T10:19:38 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[createCustemer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createCustemer -->
+      </class> <!-- com.actitime.testscript.CreateCustemer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
