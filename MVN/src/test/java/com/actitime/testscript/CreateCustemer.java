@@ -9,6 +9,7 @@ public class CreateCustemer {
 	public void createCustemer() {
 
 		Reporter.log("createCustemer", true);
+		Reporter.log("createModel",true);
 
 	}
 
